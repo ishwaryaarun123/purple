@@ -2,7 +2,8 @@
 <html>
 <body>
 
-<h2>What Can JavaScript Do?</h2>
+
+<h1>What Can JavaScript Do?</h1>
 
 <p>JavaScript can change HTML attribute values.</p>
 
@@ -16,4 +17,16 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+	
+
+	
+
+
 
